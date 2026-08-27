@@ -4,4 +4,5 @@ faster-whisper
 transformers
 torch
 uvicorn
-fastapi
+fastapi 
+multipart  
